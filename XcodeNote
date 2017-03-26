@@ -1,6 +1,0 @@
-1.Xcode显示行号 ，xcode偏好设置－ set line number
-2.日志 Lumberjack   http://www.bkjia.com/IOSjc/1079135.html
-
-tips: 如果打印颜色没有变
-
-- 打开Product -> Edit Scheme选择Run->"Arguments" tab增加一个新的Environment Variable ，命名为"XcodeColors"，值赋为YESok，现在是见证奇迹的时刻，在运行一次，你就能看到。
