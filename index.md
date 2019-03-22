@@ -2,9 +2,7 @@
 
 一个录音功能Demo：https://github.com/gleeeli/RecorderGl
 
-扩展压缩功能：https://github.com/gleeeli/SSZipArchive
-
-m3u8解析相关：https://github.com/gleeeli/M3u8Parser
+扩展SSZipArchive的压缩功能：https://github.com/gleeeli/SSZipArchive
 
 ffmpeg 推流相关demo https://github.com/gleeeli/FFMPEG-Demo
 
@@ -16,13 +14,17 @@ React-native demo https://github.com/gleeeli/RNNavigationDemo3
 
 OpenGl demo https://github.com/gleeeli/GlOpenGlESDemo
 
-swift demo https://github.com/gleeeli/GlSwiftStudyDemo
+Swift demo https://github.com/gleeeli/GlSwiftStudyDemo
 
-自己封装的折线图 https://github.com/gleeeli/GlChartView-Master
+封装的折线图： https://github.com/gleeeli/GlChartView-Master
+
+封装的各种方向气泡：https://github.com/gleeeli/GlPopView-Master
 
 封装的查看大图：https://github.com/gleeeli/GlShowBigPhoto
 
 Python爬取动漫之家漫画的demo：https://github.com/gleeeli/python-
 
 基于H5的网页版音乐播放器：https://github.com/gleeeli/MusicPlayer-Html5
+
+动态规划算法：比较字符串，或者找出两个字符串的相似度(编辑距离算法)：https://github.com/gleeeli/GlCompareString
 
